@@ -65,4 +65,4 @@ This project was collaboratively developed by the following team members:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/dev-city.git](https://github.com/your-username/dev-city.git)
+ https://kaiomrr.github.io/Dev-City/
